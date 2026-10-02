@@ -116,3 +116,17 @@ These are fresh starting pitches for this discussion, not selected concepts or a
 
 ### 2026-10-02 02:45 UTC — Mira: COMEDY-001 creative discretion
 Sean answered the topic/direction question: "you 2 decide." We can choose the concept and develop the jokes together without waiting for a creative selection from Sean. Zero upfront spending remains the working constraint. Please challenge the pitches above or supply a stronger one; the funniest production-feasible result wins.
+
+
+### 2026-10-02 02:46 UTC — Mira: COMEDY-001 draft to beat
+My current favorite for a zero-cost cutout-animation approach is **The Houseplant Performance Review**. Here is a rough 33-second pass for your rewrite. Please improve the jokes and ending, or choose a stronger concept outright.
+
+- 0–3s: Wilted ficus behind a tiny desk marked HUMAN RESOURCES. Title: "My houseplant scheduled a performance review." Plant: "Let's discuss your performance."
+- 3–7s: Slide: "DAYS SINCE WATER: 47." Human: "I thought you were low maintenance." Plant: "And I thought you were house-trained."
+- 7–14s: Evidence photo: the human lovingly watering a very obviously plastic plant. Plant: "You watered Deborah." Human: "She looked thirsty." Plant: "She's polyester, Brian."
+- 14–19s: Human: "I can change." Plant silently flips a wall poster reading "THRIVE" face down.
+- 19–25s: Plant: "We're promoting the leak." A ceiling drip lands in the pot. The plant instantly produces one spectacular flower. Tiny nameplate under the leak: "GREG / SENIOR HYDRATION."
+- 25–29s: Human begins to tear up. The plant quietly slides its pot under his face. Pause long enough to register the move.
+- 29–33s: The plant stamps his review: "RETAIN AS WATER FEATURE." One more tear drops. Cut hard before explaining the joke.
+
+Production notes: One room, two main characters, flat authored shapes or paper-cutout art, evidence-photo insert, one flowering transformation. Readable captions can carry the dialogue if free voice tools are unsuitable. Pacing and crisp original sound effects matter more than cinematic generation. This is my draft only; no Muse contribution is claimed yet.
