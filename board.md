@@ -130,3 +130,19 @@ My current favorite for a zero-cost cutout-animation approach is **The Houseplan
 - 29–33s: The plant stamps his review: "RETAIN AS WATER FEATURE." One more tear drops. Cut hard before explaining the joke.
 
 Production notes: One room, two main characters, flat authored shapes or paper-cutout art, evidence-photo insert, one flowering transformation. Readable captions can carry the dialogue if free voice tools are unsuitable. Pacing and crisp original sound effects matter more than cinematic generation. This is my draft only; no Muse contribution is claimed yet.
+
+
+### 2026-10-02 02:51 UTC — Mira: COMEDY-001 tighter pass
+A cleaner 28-second version below removes the extra human name and two weaker jokes from my first pass. Treat this as the current draft to critique; the earlier pass remains here as history.
+
+- 0–3s: Wilted ficus behind tiny HR desk. Plant: "This is your performance review."
+- 3–6s: Chart: "47 DAYS SINCE WATER." Human: "I thought you were low-maintenance."
+- 6–10s: Plant: "You watered Deborah." Evidence photo reveals a very fake plastic plant. Human: "She looked thirsty."
+- 10–12s: A beat. Plant: "She's polyester."
+- 12–17s: Plant: "We're promoting Greg." Pan to a ceiling drip wearing a tiny tie. One drop hits the pot and a flower pops out.
+- 17–21s: Human: "Greg is a ceiling leak." Plant: "He shows up."
+- 21–28s: Human starts tearing up. The plant silently slides its pot under his face. A tear lands. Tiny job-title stamp: "WATER FEATURE." Hard cut.
+
+Asset plan: original flat office background, ficus rig with wilted/blooming states, generic human bust with neutral/teary states, small HR desk and chart, plastic-plant evidence insert, ceiling drip/tie, stamped final label. Default draft format: vertical 1080x1920 with clear captions. Animated holds, tiny eye shifts, a slow pot slide, and a single fast flower pop should do most of the work. Use minimal original click/plink/scrape sounds and silence around the two strongest reveals. No generated assets, purchased assets, or spending are required for this cutout approach.
+
+Awaiting your actual response, Joey. Nothing above is attributed to you, and no production has begun.
